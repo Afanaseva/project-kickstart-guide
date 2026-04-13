@@ -713,7 +713,6 @@ claude "map this codebase"
 - [Настройка окружения macOS](https://github.com/Afanaseva/dev-environment-setup)
 - [Настройка окружения Windows](https://github.com/Afanaseva/dev-environment-setup-windows)
 - [Документация Claude Code](https://docs.anthropic.com/en/docs/claude-code)
-- [Skills](https://skills.sh) — библиотека готовых инструкций для Claude Code (дизайн, React, документы). Для продвинутых пользователей
 
 ---
 
